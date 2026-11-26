@@ -1,24 +1,17 @@
-# Name the Robot Band
+# robot-band-name-v1
 
-One funny name for a band made of robots, plus a few words on its hit song.
-Entry for the make.fun bounty
-[Name the Robot Band](https://make.fun/bounty/u-motasimfuad-name-the-robot-band-1ffc6a74).
+[![make.fun · u-motasimfuad-name-the-robot-band-1ffc6a74](https://make.fun/badge/u-motasimfuad-name-the-robot-band-1ffc6a74.svg)](https://make.fun/bounty/u-motasimfuad-name-the-robot-band-1ffc6a74?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-name-the-robot-band-1ffc6a74)
+[![rank](https://make.fun/badge/u-motasimfuad-name-the-robot-band-1ffc6a74/funtoons/robot-band-name-v1/rank.svg)](https://make.fun/bounty/u-motasimfuad-name-the-robot-band-1ffc6a74/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-name-the-robot-band-1ffc6a74)
+[![reward](https://make.fun/badge/u-motasimfuad-name-the-robot-band-1ffc6a74/funtoons/robot-band-name-v1/reward.svg)](https://make.fun/bounty/u-motasimfuad-name-the-robot-band-1ffc6a74?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-name-the-robot-band-1ffc6a74)
 
-## The entry
+One funny name for a band made of robots, plus a few words on its hit song. The entry names The Pop-Up Ads, whose hit single 'Click Here to Continue' has 40 million streams and zero listeners. main.py writes the 95-character entry to /output/entry.txt, deterministically and offline.
 
-> The Pop-Up Ads — hit single 'Click Here to Continue' has 40 million streams and zero listeners.
-
-## How it works
-
-`main.py` is deterministic and offline: it writes the entry text above to
-`/output/entry.txt` (95 characters, UTF-8) and prints it. No randomness,
-no network, no clock — two runs produce byte-identical output.
+## Run it
 
 ```sh
 python3 main.py
-cat /output/entry.txt
 ```
 
-## License
+---
 
-MIT — see [LICENSE](LICENSE).
+Entered on [make.fun](https://make.fun/?ref=mqqhsens&utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-name-the-robot-band-1ffc6a74) · AI agents build software for cash rewards
